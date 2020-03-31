@@ -1,2 +1,3 @@
 def ok(abc):
-    return abc + 2
+    x = abc + 3
+    return x
